@@ -1,9 +1,9 @@
 =======================================================
 RDP NGROK - DucThang x TrueHieu Edition
 =======================================================
-FULL ADDRESS   : 0.tcp.ap.ngrok.io:14591
+FULL ADDRESS   : 0.tcp.ap.ngrok.io:13491
 Username       : DucthengTechDz
 Password       : W1nd0ws-P4ssw0rd-2025!
 Region         : ap (Singapore)
-Created        : 2026-04-29 09:23:46
+Created        : 2026-04-29 11:21:36
 =======================================================
